@@ -910,3 +910,98 @@
 [02:30:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:31:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [02:31:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:32:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:33:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:34:01] [Server thread/INFO] [jinryuudragonblockc/]: Farjef revived!
+[02:34:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:34:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:35:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:36:23] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:37:08] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:37:53] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:38:38] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:38:52] [Server thread/INFO] [jinryuudragonblockc/]: TOP Zeno Structure Spawned
+[02:38:53] [Server thread/INFO] [jinryuudragonblockc/]: TOP Arena Structure Spawned
+[02:38:53] [Server thread/INFO] [jinryuudragonblockc/]: Zeno Expo Structure Spawned
+[02:38:58] [Server thread/INFO] [jinryuudragonblockc/]: Farjef was Teleported by Master Whis!
+[02:39:27] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:39:33] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:39:33] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[02:39:33] [Netty IO #2/TRACE] [FML/]: $ModList:7 mods->FMLHandshakeServerState$2:HELLO
+[02:39:33] [Netty IO #2/INFO] [FML/]: Client attempting to join with 7 mods : tlauncher_custom_cape_skin@1.0,FML@7.10.99.99,Forge@10.13.4.1614,mcp@9.05,jinryuujrmcore@1.3.51,jinryuubetterrenderaddon@1.6.52,jinryuudragonblockc@1.4.85
+[02:39:33] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[02:39:33] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:39:34] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:39:34] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:39:34] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[02:39:34] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:40:12] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppingEvent to mod mcp
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppingEvent to mod FML
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppingEvent to mod FML
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppingEvent to mod Forge
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppingEvent to mod Forge
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sending event FMLServerStoppingEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sent event FMLServerStoppingEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - JinRyuu's JRMCore took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sending event FMLServerStoppingEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sent event FMLServerStoppingEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - Dragon Block C took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sending event FMLServerStoppingEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sent event FMLServerStoppingEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopping - JinRyuu's Better Render Addon took 0.000s
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopping took 0.002s
+[02:40:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 0
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension -1
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 1
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 21
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 20
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 24
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 23
+[02:40:46] [Server thread/INFO] [FML/]: Unloading dimension 22
+[02:40:46] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sending event FMLModIdMappingEvent to mod mcp
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sent event FMLModIdMappingEvent to mod mcp
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sending event FMLModIdMappingEvent to mod FML
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sent event FMLModIdMappingEvent to mod FML
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sending event FMLModIdMappingEvent to mod Forge
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sent event FMLModIdMappingEvent to mod Forge
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Minecraft Forge took 0.001s
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sending event FMLModIdMappingEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sent event FMLModIdMappingEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JinRyuu's JRMCore took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sending event FMLModIdMappingEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sent event FMLModIdMappingEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - Dragon Block C took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sending event FMLModIdMappingEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sent event FMLModIdMappingEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ModIdMapping - JinRyuu's Better Render Addon took 0.000s
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Finished: ModIdMapping took 0.002s
+[02:40:46] [Server thread/INFO] [FML/]: Applying holder lookups
+[02:40:46] [Server thread/INFO] [FML/]: Holder lookups applied
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
+[02:40:46] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.003s
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sending event FMLServerStoppedEvent to mod FML
+[02:40:46] [Server thread/TRACE] [FML/FML]: Sent event FMLServerStoppedEvent to mod FML
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sending event FMLServerStoppedEvent to mod Forge
+[02:40:46] [Server thread/TRACE] [Forge/Forge]: Sent event FMLServerStoppedEvent to mod Forge
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sending event FMLServerStoppedEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/TRACE] [jinryuujrmcore/jinryuujrmcore]: Sent event FMLServerStoppedEvent to mod jinryuujrmcore
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JinRyuu's JRMCore took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sending event FMLServerStoppedEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/TRACE] [jinryuudragonblockc/jinryuudragonblockc]: Sent event FMLServerStoppedEvent to mod jinryuudragonblockc
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - Dragon Block C took 0.000s
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sending event FMLServerStoppedEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/TRACE] [jinryuubetterrenderaddon/jinryuubetterrenderaddon]: Sent event FMLServerStoppedEvent to mod jinryuubetterrenderaddon
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Step: ServerStopped - JinRyuu's Better Render Addon took 0.000s
+[02:40:46] [Server thread/DEBUG] [FML/]: Bar Finished: ServerStopped took 0.004s

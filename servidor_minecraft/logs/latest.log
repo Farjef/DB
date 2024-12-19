@@ -26,3 +26,24 @@
 [02:04:24] [Server thread/INFO]: Jinkazama667 fell out of the world
 [02:11:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
 [02:28:17] [Server thread/INFO]: Farjef fell out of the world
+[02:38:10] [Server thread/INFO]: Jinkazama667 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:38:10] [Server thread/INFO]: Jinkazama667 left the game
+[02:38:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6151ms behind, skipping 123 tick(s)
+[02:39:23] [Server thread/INFO]: Farjef lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:39:23] [Server thread/INFO]: Farjef left the game
+[02:39:34] [Server thread/INFO]: Farjef[/127.97.159.222:40723] logged in with entity id 174215 at (8.0, 136.0, 70.0)
+[02:39:34] [Server thread/INFO]: Farjef joined the game
+[02:40:12] [Server thread/INFO]: Farjef lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:40:12] [Server thread/INFO]: Farjef left the game
+[02:40:46] [Server thread/INFO]: Stopping the server
+[02:40:46] [Server thread/INFO]: Stopping server
+[02:40:46] [Server thread/INFO]: Saving players
+[02:40:46] [Server thread/INFO]: Saving worlds
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/Vegeta
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/Namek
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/Null Realm
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/TimeChamber
+[02:40:46] [Server thread/INFO]: Saving chunks for level 'world'/OtherWorld
